@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">TipCalculatorExpand2</string>
+    <string name="action_settings">Settings</string>
+    <string name="num_people">Number of People</string>
+    <string name="percent">15%</string>
+    <string name="tip_textView">Tip</string>
+    <string name="tip_textview">Tip</string>
+    <string name="tipamount">$0.00</string>
+    <string name="total_textview">Total</string>
+    <string name="totalTotal">$0.00</string>
+    <string name="noRound">No Rounding</string>
+    <string name="tipRound">Round Tip</string>
+    <string name="totalRound">Round Total</string>
+    <string name="action_info">Info</string>
+    <string name="action_share">Share</string>
+    <string name="spinner_info">Spinner Info</string>
+    <string name="spinner_message">The \'Number of People\' section splits the bill among the number chosen</string>
+    <string name="ok_button">OK</string>
+    <string name="toast_ok">Press OK</string>
+    <string name="cancel_ok">Cancel</string>
+    <string name="toast_cancel">Press Cancel</string>
+    <string-array name="labels_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
